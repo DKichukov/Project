@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9412d656-a3f3-4318-8e10-a3622093800a" name="Changes" comment="" />
+    <list default="true" id="9412d656-a3f3-4318-8e10-a3622093800a" name="Changes" comment="Enter the project on Github">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.csv" beforeDir="false" afterPath="$PROJECT_DIR$/database.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/employee_vacation_tracking_system.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employee_vacation_tracking_system.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/testFile.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,16 +47,11 @@
       <recent name="Backup" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.employee_vacation_tracking_system">
+  <component name="RunManager">
     <configuration name="employee_vacation_tracking_system" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="employee_vacation_tracking_system" />
-      <module name="Project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="holiday_system" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="holiday_system" />
       <module name="Project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,7 +60,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.employee_vacation_tracking_system" />
-        <item itemvalue="Application.holiday_system" />
       </list>
     </recent_temporary>
   </component>
@@ -79,6 +78,14 @@
       <workItem from="1654684957050" duration="47000" />
       <workItem from="1654685178031" duration="679000" />
     </task>
+    <task id="LOCAL-00001" summary="Enter the project on Github">
+      <created>1654959041462</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654959041462</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +101,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Enter the project on Github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enter the project on Github" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -116,6 +127,7 @@
         <watch expression="table[count-1]" language="JAVA" />
         <watch expression="name.hashIsZero" />
         <watch expression="comaCounter" />
+        <watch expression="table[count-1]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
