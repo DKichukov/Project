@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9412d656-a3f3-4318-8e10-a3622093800a" name="Changes" comment="update_checkName">
-      <change afterPath="$PROJECT_DIR$/src/EmployeeVacationProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="9412d656-a3f3-4318-8e10-a3622093800a" name="Changes" comment="update_checkName_ok">
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database.csv" beforeDir="false" afterPath="$PROJECT_DIR$/database.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project/EmployeeVacationProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project/EmployeeVacationProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmployeeVacationProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeVacationProgram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/employee_vacation_tracking_system.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/testFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/testFile.csv" afterDir="false" />
     </list>
@@ -35,18 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/JAVA/Workbook/Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/JAVA/Workbook/Project",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Backup" />
@@ -95,7 +96,28 @@
       <option name="project" value="LOCAL" />
       <updated>1654962038545</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update_checkName_nok">
+      <created>1654976221220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654976221221</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update_checkName_nok">
+      <created>1654976314021</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654976314021</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update_checkName_ok">
+      <created>1655028181050</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655028181050</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,7 +140,9 @@
     <MESSAGE value="update" />
     <MESSAGE value="update_copyCSV_work" />
     <MESSAGE value="update_checkName" />
-    <option name="LAST_COMMIT_MESSAGE" value="update_checkName" />
+    <MESSAGE value="update_checkName_nok" />
+    <MESSAGE value="update_checkName_ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="update_checkName_ok" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -129,17 +153,28 @@
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/EmployeeVacationProgram.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="12" />
+          <line>103</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
+        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/EmployeeVacationProgram.java</url>
-          <line>50</line>
-          <properties class="EmployeeVacationProgram" method="checkHolidayType">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="13" />
+          <line>81</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EmployeeVacationProgram.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EmployeeVacationProgram.java</url>
+          <line>303</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/EmployeeVacationProgram.java</url>
+          <line>295</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -164,6 +199,7 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project$EmployeeVacationProgram.ic" NAME="EmployeeVacationProgram Coverage Results" MODIFIED="1655038316569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/Project$table.ic" NAME="table Coverage Results" MODIFIED="1654348937945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
